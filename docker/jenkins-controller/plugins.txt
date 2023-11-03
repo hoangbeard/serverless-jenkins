@@ -1,0 +1,8 @@
+build-timeout:latest
+ws-cleanup:latest
+workflow-aggregator:latest
+git:latest
+github:latest
+amazon-ecs:latest
+terraform:latest
+configuration-as-code:latest
